@@ -57,6 +57,13 @@ In the Terminal:
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
+`git --version`
+
+bash 
+python3
+ipython3
+jupyter notebook
+spyder
  
 
 
