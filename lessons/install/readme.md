@@ -45,7 +45,7 @@ import sklearn
 
 **Course material for the bootcamp is compatible with Python versions 2.7 and 3.0. All HackerRank Python pre-work is configured for Python 3 only.  Therefore, Python 3 is the recommended version.**  
 
-Did you install Python 2 or 3? Why?  
+I installed python 3.8.5. Because newest version  
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Version 3.8.5
 
  'git --version'
 
