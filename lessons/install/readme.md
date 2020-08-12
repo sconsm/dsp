@@ -47,8 +47,6 @@ import sklearn
 
 I installed python 3.8.5. Because newest version  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
 ### Q2. Which Python Version Installed   
 
 In the Terminal:
